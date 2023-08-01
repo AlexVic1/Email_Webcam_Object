@@ -1,15 +1,7 @@
-﻿# Email_Webcam_Object
+﻿# Customer Entry Email Notification Program
 
-If you had a shop and you wanted to set up a webcam in that shop and you wanted to get an email, any
-
-time a new customer enters the shop, how can you do it?
-
-The program will send you an email with attached as a picture.
+This Python program is designed to automatically send an email notification with an attached picture whenever a new customer enters the shop. 
 
 
-
-
-
-
-
-
+Disclaimer
+This program is provided as-is and is intended for educational purposes only. The author is not responsible for any misuse or damages resulting from the use of this program. Use it responsibly and in accordance with applicable laws and regulations.
