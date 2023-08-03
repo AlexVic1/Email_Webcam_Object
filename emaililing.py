@@ -2,9 +2,9 @@ from email.message import EmailMessage
 import imghdr
 import smtplib
 
-PASSWORD = "" ""# You need to turn on two step verification.
+PASSWORD = "" ""# You need to turn on two-step verification.
 SENDER = "" # Put here the email that you would like to send it.
-RECEIVER = "" # Put here the email that you would like to receiv it.
+RECEIVER = "" # Put here the email that you would like to receive it.
 
 def send_email(image_path):
     print("send_email function started")
